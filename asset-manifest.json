@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/roll-dice/static/css/main.a617e044.chunk.css",
-    "main.js": "/roll-dice/static/js/main.f7a55acb.chunk.js",
-    "main.js.map": "/roll-dice/static/js/main.f7a55acb.chunk.js.map",
-    "runtime-main.js": "/roll-dice/static/js/runtime-main.e688a62f.js",
-    "runtime-main.js.map": "/roll-dice/static/js/runtime-main.e688a62f.js.map",
-    "static/js/2.62b1423c.chunk.js": "/roll-dice/static/js/2.62b1423c.chunk.js",
-    "static/js/2.62b1423c.chunk.js.map": "/roll-dice/static/js/2.62b1423c.chunk.js.map",
-    "static/js/3.663623fd.chunk.js": "/roll-dice/static/js/3.663623fd.chunk.js",
-    "static/js/3.663623fd.chunk.js.map": "/roll-dice/static/js/3.663623fd.chunk.js.map",
-    "index.html": "/roll-dice/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/roll-dice/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.62b1423c.chunk.js.LICENSE.txt": "/roll-dice/static/js/2.62b1423c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/roll-dice/static/media/logo.6ce24c58.svg"
+    "main.css": "/deck-of-cards/static/css/main.a617e044.chunk.css",
+    "main.js": "/deck-of-cards/static/js/main.f7a55acb.chunk.js",
+    "main.js.map": "/deck-of-cards/static/js/main.f7a55acb.chunk.js.map",
+    "runtime-main.js": "/deck-of-cards/static/js/runtime-main.0b80eac7.js",
+    "runtime-main.js.map": "/deck-of-cards/static/js/runtime-main.0b80eac7.js.map",
+    "static/js/2.62b1423c.chunk.js": "/deck-of-cards/static/js/2.62b1423c.chunk.js",
+    "static/js/2.62b1423c.chunk.js.map": "/deck-of-cards/static/js/2.62b1423c.chunk.js.map",
+    "static/js/3.663623fd.chunk.js": "/deck-of-cards/static/js/3.663623fd.chunk.js",
+    "static/js/3.663623fd.chunk.js.map": "/deck-of-cards/static/js/3.663623fd.chunk.js.map",
+    "index.html": "/deck-of-cards/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/deck-of-cards/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.62b1423c.chunk.js.LICENSE.txt": "/deck-of-cards/static/js/2.62b1423c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deck-of-cards/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e688a62f.js",
+    "static/js/runtime-main.0b80eac7.js",
     "static/js/2.62b1423c.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.f7a55acb.chunk.js"
