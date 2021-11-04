@@ -44,7 +44,7 @@ class Deck extends Component {
     ));
     return (
       <div>
-        {/* {cards} */}
+        {cards}
 
         <button onClick={this.handleClick}>Draw new card</button>
       </div>
